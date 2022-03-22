@@ -35,3 +35,9 @@
 ![p](gambar/ss8.png)
 <br> Selanjutnya buka browser lalu refresh dan lihat kembali hasilnya.
 ![p](gambar/ss9.png)
+
+## 5. Menambahkan CSS Selector
+<br>Selanjutnya menambahkan CSS selector menggunakan ID dan Class selector. Pada file `style_eksternal.css`, tambahkan kode berikut.
+![p](gambar/ss10.png)
+<br>Kemudian simpan kembali buka browser lalu refresh dan lihat hasilnya.
+![p](gambar/ss11.png)
