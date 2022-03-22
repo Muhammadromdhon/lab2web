@@ -6,5 +6,4 @@
 ## Matkul   : Pemograman web
 
 ## Langkah-langkah praktikum
-
-<p> Disini saya akan melakukan langkah-langkah praktikum CSS dasar HTML
+<br> Disini saya akan melakukan langkah-langkah praktikum *CSS* dasar HTML
