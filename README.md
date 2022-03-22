@@ -6,4 +6,4 @@
 ## Matkul   : Pemograman web
 
 ## Langkah-langkah praktikum
-<br> Disini saya akan melakukan langkah-langkah praktikum *CSS* dasar HTML dengan menggunakan *Visual Studio Code*.
+<br> Disini saya akan melakukan langkah-langkah praktikum *CSS* dasar HTML dengan menggunakan *Visual Studio Code.*
