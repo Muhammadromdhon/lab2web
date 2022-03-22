@@ -13,3 +13,11 @@
 ## 1. Membuat dokumen HTML
 <br> Buatlah dokumen HTML seperti berikut:
 ![p](gambar/ss1.png)
+<br> Selanjutnya buka file tersebut menggunakan browser, untuk melihat hasilnya
+![p](gambar/ss2.png)
+
+## 2. Mendeklarasikan CSS Internal
+<br>Kemudian tambahkan deklarasi *CSS* internal seperti berikut pada bagian `head` dokumen.
+![p](gambar/ss3.png)
+<br>Selanjutnya buka browser lalu refresh dan lihat hasilnya.
+![p](gambar/ss4.png)
