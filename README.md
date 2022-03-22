@@ -1,4 +1,4 @@
-# leb2web
+# lab2web
 
 ## Nama : Muhammad Romdhon
 ## NIM  : 312010434
