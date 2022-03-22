@@ -21,3 +21,11 @@
 ![p](gambar/ss3.png)
 <br>Selanjutnya buka browser lalu refresh dan lihat hasilnya.
 ![p](gambar/ss4.png)
+
+## 3. Menambahkan Inline CSS
+<br> Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
+![p](gambar/ss5.png)
+<br> Selanjutnya buka browser lalu refresh dan lihat hasilnya.
+![p](gambar/ss6.png)
+
+## 4. Membuat CSS Eksternal
