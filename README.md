@@ -9,4 +9,6 @@
 <br> Disini saya akan melakukan langkah-langkah praktikum *CSS* dasar HTML dengan menggunakan *Visual Studio Code.*
 <br>Langkah pertama buka *Visual Studio Code.*
 ![p](gambar/ss0.png)
-## 1. Membuat Dokuen HTML
+## 1. Membuat dokumen HTML
+<br> Buatlah dokumen seperti berikut:
+![p](gambar/ss1.png)
