@@ -7,4 +7,4 @@
 
 ## Langkah-langkah praktikum
 
-<br> Disini saya akan melakukan langkah-langkah praktikum *CSS* dasar HTML
+<p> Disini saya akan melakukan langkah-langkah praktikum CSS dasar HTML
