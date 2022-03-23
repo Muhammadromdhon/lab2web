@@ -55,3 +55,10 @@ penjelasan dan contohnya!
 <br> 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya! (< p id="paragraf-1" class="text-paragraf" >)
+
+<br> <p align="center"> **Jawaban**
+
+<br> 1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimlai dari membuat kerangka HTMLnya. Seperti gambar berikut. Kemudian membuat CSSnya dengan menambahkan nilai dan properti pada kode diatas, disini saya menambahkan 4 pemilih kedalem CSS, diantaranya body, h2, .avatar, .header-profile. Masing-masing memiliki fungsi untuk mengatur tampilan pada HTML.
+![p](gambar/ss12.png)
+![p](gambar/ss13.png)
+<br> 2. Jadi kita mendeklarasikan `h1` nya saja itu akan mengubah semua elemen `{h1}`, sedangkan jika mendeklarasikan `{#intro h1}` itu hanya mengubah elemen `{h1}` pada `{#intro}` saja.
