@@ -41,3 +41,5 @@
 ![p](gambar/ss10.png)
 <br>Kemudian simpan kembali buka browser lalu refresh dan lihat hasilnya.
 ![p](gambar/ss11.png)
+<br> sekian dari saya tentang penjelasan praktikum CSS dasar 
+<br> <p align="center"> **Terima Kasih**
